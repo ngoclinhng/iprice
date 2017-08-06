@@ -11,3 +11,17 @@ Machine: Mac-OSX
 
 Dependencies: None
 
+# for performance test
+book: [plot.list.gz](http://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/imdb/)
+
+texts: [gzipped tar archive](http://www.daviddlewis.com/resources/testcollections/reuters21578/)
+
+Use [this program](https://github.com/manishkanadje/reuters-21578/blob/master/ExtractReuters.java) to extract texts
+
+After extraction:
+
+- book: plot.list (365M, one file)
+
+- texts: 90M, 21,579 files
+
+
