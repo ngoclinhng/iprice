@@ -5,7 +5,8 @@ Problem: Given a large number of text files with random text (doc1, doc2, …, d
 
 Solution:
 =========
+```run python prog.py``` for more information
 Python 2.7.10
 Machine: Mac-OSX
 Dependencies: None
-run python prog.py for more information
+
